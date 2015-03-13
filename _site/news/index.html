@@ -6,15 +6,41 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Poster: SCE charge transfer excitations</title>
-  <meta name="description" content="Find here a poster where the SCE functional correctly captures the electron hopping excitation in a model Hydrogen molecule. In a fractional particle number ...">
+  <title>News</title>
+  <meta name="description" content="My research activities at a glance!
+">
 
 <style>
 body {
     padding-top: 60px;       
-    background: url('/img/cover2.png') no-repeat center top fixed;       
-    background-size: auto 230px;
+    background: url(/img/cover.png);       
+  /* Background image is centered vertically and horizontally at all times */
+  background-position: center top;
+  
+  /* Background image doesn't tile */
+  background-repeat: no-repeat;
+  
+  /* Background image is fixed in the viewport so that it doesn't move when 
+     the content's height is greater than the image's height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based
+     on the container's size */
+    background-size: 100% auto;
+  
+  /* Set a background color that will be displayed
+     while the background image is loading */
+  /* background-color: #464646; */
+}
 
+@media only screen and (max-width: 767px) {
+  body {
+    padding-top: 60px;       
+    /* The file size of this background image is 93% smaller
+       to improve page load speed on mobile internet connections */
+    background-image: url(img/cover_lr.png) no-repeat center top fixed;
+    background-size: auto 172.275px;
+  }
 }
 
 .my {
@@ -28,10 +54,11 @@ body {
 }
 </style> 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://andremirt.github.io/conferece/poster/sce/dft/tddft/2015/01/09/DFT%20Oslo.html">
+  <link rel="canonical" href="http://andremirt.github.io/news/">
   <link rel="alternate" type="application/rss+xml" title="André Mirtschink" href="http://andremirt.github.io/feed.xml" />
 
   <link href="/css/bootstrap.css" rel="stylesheet">
+  <link href="/css/bootstrap.min.css" rel="stylesheet">
   <link href="/css/bootstrap-responsive.css" rel="stylesheet">
 
 </head>
@@ -65,13 +92,13 @@ body {
           
         
           
-          <a class="page-link" href="/blog/">Blog</a>
-          
         
           
         
           
         
+          
+          <a class="page-link" href="/news/">News</a>
           
         
           
@@ -88,21 +115,39 @@ body {
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="post">
+        <div class="home">
 
-  <header class="post-header">
-    <h1 class="post-title">Poster: SCE charge transfer excitations</h1>
-    <p class="post-meta">Jan 9, 2015</p>
-  </header>
+  <h1 class="page-heading">News</h1>
 
-  <article class="post-content">
-    <p>Find here a poster where the SCE functional correctly captures the electron hopping excitation in a model Hydrogen molecule. In a fractional particle number perspective this can be attributed to the <em>smooth</em> SCE derivative discontinuity - <a href="http://dx.doi.org/10.1103/PhysRevLett.111.126402 ">see here for more</a> or <a href="../downloads/MirSeiGor-PRL-13.pdf">download the article</a>.</p>
+  <ul class="post-list">
+    
+      <li>
+        <span class="post-meta">Jan 29, 2015</span>
 
-<p><img src="/img/2015-01-09_Oslo_poster.png" alt="poster Oslo" class="my" /></p>
+        <h2>
+          <a class="post-link" href="/conference/thesis/2015/01/29/mini-symposium.html">Mini-symposium</a>
+        </h2>
+      </li>
+    
+      <li>
+        <span class="post-meta">Jan 9, 2015</span>
 
-<p>[<a href="/img/2015-01-09_Oslo_poster_hr.png">high-res</a>][<a href="/downloads/2015-01-09_Oslo_poster.pdf">pdf</a>][<a href="http://dx.doi.org/10.6084/m9.figshare.1285135">doi</a>]</p>
+        <h2>
+          <a class="post-link" href="/conference/poster/sce/dft/tddft/2015/01/09/DFTOslo.html">Poster: SCE charge transfer excitations</a>
+        </h2>
+      </li>
+    
+      <li>
+        <span class="post-meta">Nov 1, 2014</span>
 
-  </article>
+        <h2>
+          <a class="post-link" href="/publications/thesis/2014/11/01/PhDfinished.html">PhD finished!</a>
+        </h2>
+      </li>
+    
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
 
 </div>
 
@@ -155,9 +200,9 @@ body {
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/js/jquery.js"></script>
     <script src="/js/bootstrap.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/jquery.js"></script>
 
   </body>
 

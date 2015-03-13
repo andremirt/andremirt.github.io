@@ -13,9 +13,34 @@
 <style>
 body {
     padding-top: 60px;       
-    background: url('/img/cover2.png') no-repeat center top fixed;       
-    background-size: auto 230px;
+    background: url(/img/cover.png);       
+  /* Background image is centered vertically and horizontally at all times */
+  background-position: center top;
+  
+  /* Background image doesn't tile */
+  background-repeat: no-repeat;
+  
+  /* Background image is fixed in the viewport so that it doesn't move when 
+     the content's height is greater than the image's height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based
+     on the container's size */
+    background-size: 100% auto;
+  
+  /* Set a background color that will be displayed
+     while the background image is loading */
+  /* background-color: #464646; */
+}
 
+@media only screen and (max-width: 767px) {
+  body {
+    padding-top: 60px;       
+    /* The file size of this background image is 93% smaller
+       to improve page load speed on mobile internet connections */
+    background-image: url(img/cover_lr.png) no-repeat center top fixed;
+    background-size: auto 172.275px;
+  }
 }
 
 .my {
@@ -33,6 +58,7 @@ body {
   <link rel="alternate" type="application/rss+xml" title="André Mirtschink" href="http://andremirt.github.io/feed.xml" />
 
   <link href="/css/bootstrap.css" rel="stylesheet">
+  <link href="/css/bootstrap.min.css" rel="stylesheet">
   <link href="/css/bootstrap-responsive.css" rel="stylesheet">
 
 </head>
@@ -56,28 +82,14 @@ body {
       </a>
 
       <div class="trigger">
-        
-          
+
+          <a class="page-link" href="/news/">News</a>
+
           <a class="page-link" href="/KS-SCE/">KS-SCE</a>
           
-        
-          
-          <a class="page-link" href="/about/">About</a>
-          
-        
-          
-          <a class="page-link" href="/blog/">Blog</a>
-          
-        
-          
-        
-          
-        
-          
-        
-          
           <a class="page-link" href="/publications/">Publications</a>
-          
+        
+          <a class="page-link" href="/about/">About</a>          
         
       </div>
     </nav>
@@ -91,35 +103,31 @@ body {
       <div class="wrapper">
         <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Welcome to my website!</h1>
 
-  <ul class="post-list">
-    
-      <li>
-        <span class="post-meta">Jan 29, 2015</span>
+      <div class="row-fluid">
+        <div class="span4" style="text-align: center;vertical-align: middle;">
+          <img src="/img/profile.jpg" class="my" alt="André Mirtschink" style="max-width:120px">
+        </div>
+        <div class="span5" style="text-align: center;vertical-align: middle;">
+          <h2>André Mirtschink</h2><!<br>
+          - Theoretical Chemist -
+        </div> 
+      </div>
 
-        <h2>
-          <a class="post-link" href="/conference/thesis/2015/01/29/mini-symposium.html">Mini-symposium</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jan 9, 2015</span>
+<hr>
 
-        <h2>
-          <a class="post-link" href="/conferece/poster/sce/dft/tddft/2015/01/09/DFT%20Oslo.html">Poster: SCE charge transfer excitations</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Nov 1, 2014</span>
+<!  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/publications/thesis/2014/11/01/PhDfinished.html">Highlight: PhD finised!</a></h1>
+    <p class="post-meta">Nov 1, 2014</p>
+<!  </header>
 
-        <h2>
-          <a class="post-link" href="/publication/thesis/2014/11/01/PhD%20finished.html">PhD finished!</a>
-        </h2>
-      </li>
-    
-  </ul>
+  <article class="post-content">
+	<p>Four years of research summarized in a book. <a href="/andremirt.github.io/downloads/Mir-thesis-14.pdf">Download a copy</a> or <a href="http://dx.doi.org/10.6084/m9.figshare.1254927">find more information here.</a></p>
+
+  <img class="my" src="/img/2014-11-01_cover.png" alt="cover thesis" >
+
+  </article>
 
   <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
 
@@ -174,9 +182,9 @@ body {
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/js/jquery.js"></script>
     <script src="/js/bootstrap.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/jquery.js"></script>
 
   </body>
 

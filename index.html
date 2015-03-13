@@ -4,19 +4,31 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Welcome to my website!</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <div class="row-fluid">
+        <div class="span4" style="text-align: center;vertical-align: middle;">
+          <img src="/img/profile.jpg" class="my" alt="André Mirtschink" style="max-width:120px">
+        </div>
+        <div class="span5" style="text-align: center;vertical-align: middle;">
+          <h2>André Mirtschink</h2><!<br>
+          - Theoretical Chemist -
+        </div> 
+      </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+<hr>
+
+<!  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="{% post_url 2014-11-01-PhDfinished %}">Highlight: PhD finised!</a></h1>
+    <p class="post-meta">Nov 1, 2014</p>
+<!  </header>
+
+  <article class="post-content">
+	<p>Four years of research summarized in a book. <a href="/andremirt.github.io/downloads/Mir-thesis-14.pdf">Download a copy</a> or <a href="http://dx.doi.org/10.6084/m9.figshare.1254927">find more information here.</a></p>
+
+  <img class="my" src="/img/2014-11-01_cover.png" alt="cover thesis" >
+
+  </article>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 

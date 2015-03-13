@@ -12,9 +12,34 @@
 <style>
 body {
     padding-top: 60px;       
-    background: url('/img/cover2.png') no-repeat center top fixed;       
-    background-size: auto 230px;
+    background: url(/img/cover.png);       
+  /* Background image is centered vertically and horizontally at all times */
+  background-position: center top;
+  
+  /* Background image doesn't tile */
+  background-repeat: no-repeat;
+  
+  /* Background image is fixed in the viewport so that it doesn't move when 
+     the content's height is greater than the image's height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based
+     on the container's size */
+    background-size: 100% auto;
+  
+  /* Set a background color that will be displayed
+     while the background image is loading */
+  /* background-color: #464646; */
+}
 
+@media only screen and (max-width: 767px) {
+  body {
+    padding-top: 60px;       
+    /* The file size of this background image is 93% smaller
+       to improve page load speed on mobile internet connections */
+    background-image: url(img/cover_lr.png) no-repeat center top fixed;
+    background-size: auto 172.275px;
+  }
 }
 
 .my {
@@ -32,6 +57,7 @@ body {
   <link rel="alternate" type="application/rss+xml" title="André Mirtschink" href="http://andremirt.github.io/feed.xml" />
 
   <link href="/css/bootstrap.css" rel="stylesheet">
+  <link href="/css/bootstrap.min.css" rel="stylesheet">
   <link href="/css/bootstrap-responsive.css" rel="stylesheet">
 
 </head>
@@ -65,13 +91,13 @@ body {
           
         
           
-          <a class="page-link" href="/blog/">Blog</a>
-          
         
           
         
           
         
+          
+          <a class="page-link" href="/news/">News</a>
           
         
           
@@ -155,9 +181,9 @@ body {
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/js/jquery.js"></script>
     <script src="/js/bootstrap.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/jquery.js"></script>
 
   </body>
 
