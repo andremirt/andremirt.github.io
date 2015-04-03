@@ -8,7 +8,7 @@ permalink: /publications/
 Gori-Giorgi<br>
 <em>"Density functional theory for strongly correlated dipolar ultracold gases"</em><br>
 submitted 
-[<a href="../downloads/Maletal-sub-15.pdf">pdf</a>] [<a href="http://http://arxiv.org/abs/1502.01469">arxiv</a>]</p></li>
+[<a href="../downloads/Maletal-sub-15.pdf">pdf</a>] [<a href="http://arxiv.org/abs/1502.01469">arxiv</a>]</p></li>
 
 <li> <p>A. Mirtschink<br>
 <em>"Energy Density Functionals From the Strong-Interaction Limit of Density Functional Theory"</em><br>
