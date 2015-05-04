@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 <ol reversed>
+<li> <p>S. Vuckovic, L. O. Wagner, A. Mirtschink, P. Gori-Giorgi<br>
+<em>"Hydrogen molecule dissociation curve with functionals based on the strictly-correlated regime"</em><br>
+submitted 
+[<a href="../downloads/VucWagMirGor-sub-15.pdf">pdf</a>]</p></li>
+
 <li> <p>F. Malet, A. Mirtschink, C. B. Mendl, J. Bjerlin, E. Karabulut, S. Reiman, P.
 Gori-Giorgi<br>
 <em>"Density functional theory for strongly correlated dipolar ultracold gases"</em><br>
