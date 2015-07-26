@@ -6,9 +6,26 @@
 </description>
     <link>http://andremirt.github.io/</link>
     <atom:link href="http://andremirt.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 May 2015 11:32:49 +0200</pubDate>
-    <lastBuildDate>Mon, 04 May 2015 11:32:49 +0200</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Sun, 26 Jul 2015 20:05:20 +0200</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2015 20:05:20 +0200</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>PRL editor&#39;s suggestion</title>
+        <description>&lt;p&gt;Our recent publication in &lt;a href=&quot;http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033006&quot;&gt;Physical Review Letters is now highlighted as editor’s suggestion.&lt;/a&gt; In this paper we demonstarate the genuine universality of strictly correlated electrons (SCE) formalism by applying the SCE functional to fermionic and bosonic systems with dipolar interaction. Hence, the SCE functional is now called &lt;em&gt;strictly correlated particles&lt;/em&gt; (SCP) functional to express this universality.&lt;br /&gt;
+article &lt;a href=&quot;../downloads/VucWagMirGor-sub-15.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;my&quot; src=&quot;/img/2015_06_29_PRL_editors_suggestion.png&quot; alt=&quot;PRL editors suggestion&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 29 Jun 2015 00:00:00 +0200</pubDate>
+        <link>http://andremirt.github.io/publications/2015/06/29/PRL_editors_suggestion.html</link>
+        <guid isPermaLink="true">http://andremirt.github.io/publications/2015/06/29/PRL_editors_suggestion.html</guid>
+        
+        
+        <category>publications</category>
+        
+      </item>
     
       <item>
         <title>Happy 65 Andreas Savin!</title>
