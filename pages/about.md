@@ -6,10 +6,11 @@ permalink: /about/
 
 <address>
 André Mirtschink PhD<br>
-VU University Amsterdam<br> 
-Faculty of Sciences<br>
-De Boelelaan 1083<br>
-1081 HV Amsterdam<br>
+Nano-bio Spectroscopy Group<br>
+European Theoretical Spectroscopy Facility (ETSF)<br>
+Centro Joxe Mari Korta<br>
+Avenida de Tolosa, 72<br>
+20018 Donostia-San Sebastian, Spain<br>
 </address>
 <address>
 email: <a href="mailto:#">andre.mirtschink@gmail.com</a>

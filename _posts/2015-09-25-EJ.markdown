@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Happy 70th Evert Jan Baerends!"
+date:   2015-09-25
+categories: [conference]
+---
+
+All the best for your <a href="http://www.acmm.nl/activities/index.php">70th birthday Evert Jan Baerends!</a> Already during my undergraduate studies I was impressed by your outstanding contributions related to DFT and still today I end up with your publications whenever I want to understand a problem in depth. It was a pleasure to join your group in Amsterdam for my PhD studies. Thank you very much for the pleasant scientific environment with many inspiring discussions.<br>
+
+<img class="my" src="/img/2015-09-25_EJ.jpg" alt="Evert Jan Baerends" >
+
+
+

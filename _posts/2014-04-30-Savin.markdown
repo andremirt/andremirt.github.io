@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Happy 65 Andreas Savin!"
+title:  "Happy 65th Andreas Savin!"
 date:   2015-04-30
 categories: [conference]
 ---
 Congratulations <a href="http://www.lct.jussieu.fr/pagesperso/savin/">Andreas Savin</a> and joyful retirement! Hopefully you will be around in our community for many more years to share with us your original view on DFT. I learned a lot from you already. Here some impressions from the <a href="https://wiki.lct.jussieu.fr/workshop/index.php/Workshop_on_%22Advances_in_electronic_structure_theory%22">workshop on "Advances in electronic structure theory"</a> that was organized in honor of Andreas Savin.
 
-<img class="my" src="/img/2015-04-27_Toulouse.jpg" alt="Julien Toulouse" >
+<a href="/img/2015-04-27_Toulouse.jpg"><img class="my" src="/img/2015-04-27_Toulouse.jpg" alt="Julien Toulouse" ></a>
 
-<img class="my" src="/img/2015-04-29_Gill.jpg" alt="Peter Gill" >
+<a href="/img/2015-04-29_Gill.jpg"><img class="my" src="/img/2015-04-29_Gill.jpg" alt="Peter Gill" ></a>
 
-<img class="my" src="/img/2015-04-27_Ayers.jpg" alt="Paul Ayers" >
+<a href="/img/2015-04-27_Ayers.jpg"><img class="my" src="/img/2015-04-27_Ayers.jpg" alt="Paul Ayers" ></a>
 
 
 

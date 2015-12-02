@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "PostDoc in Donostia-SanSebastián"
+title:  "PostDoc in Donostia - San Sebastián"
 date:   2015-09-01
 categories: [postdoc]
 ---
 
-I'm happy to join the <a href="http://nano-bio.ehu.es/">Nano-bio Spectroscopy Group</a> lead by Angel Rubio at the Basque country university. My researh will be concerned with the application of the SCE functional in the time domain. <br>
+I'm happy to join the <a href="http://nano-bio.ehu.es/">Nano-bio Spectroscopy Group</a> lead by Angel Rubio at the  University of the Basque Country. My research will be concerned with the application of the SCE functional in the TD-DFT framework.<br>
 
-<img class="my" src="/img/2015_09_01_Donostia.jpg" alt="Donostia" >
+<img class="my" src="/img/2015-09-01_Donostia.jpg" alt="Donostia" >
 
 
 

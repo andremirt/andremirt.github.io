@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Group seminar work group Seifert"
+date:   2015-11-19
+categories: [talks]
+---
+
+Find <a href="/downloads/2015-11-19_TUD.pdf">here</a> a talk I gave at the University of Technology Dresden in the theoretical chemistry group of Gotthard Seifert where I also completed my masters.<br>
+
+<a href="/downloads/2015-11-19_TUD.pdf">
+<img class="my" src="/img/2015-11-19_TUD.png" alt="title" >
+</a>
+
+[<a href="/downloads/2015-11-19_TUD.pdf">pdf</a>]
+
+

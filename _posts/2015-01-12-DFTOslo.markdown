@@ -4,7 +4,7 @@ title:  "Poster: SCE charge transfer excitations"
 date:   2015-01-09 12:39:12
 categories: [conference, poster, SCE, DFT, TDDFT]
 ---
-Find here a poster where the SCE functional correctly captures the electron hopping excitation in a model Hydrogen molecule. In a fractional particle number perspective this can be attributed to the <em>smooth</em> SCE derivative discontinuity - <a href="http://dx.doi.org/10.1103/PhysRevLett.111.126402 ">see here for more</a> or <a href="../downloads/MirSeiGor-PRL-13.pdf">download the article</a>.
+Find here a poster where the SCE functional correctly captures the electron hopping excitation in a model Hydrogen molecule. In a fractional particle number perspective this can be attributed to the <em>smooth</em> SCE derivative discontinuity - <a href="http://dx.doi.org/10.1103/PhysRevLett.111.126402 ">see here for more</a> or <a href="/downloads/MirSeiGor-PRL-13.pdf">download the article</a>.
 
 <img src="/img/2015-01-09_Oslo_poster.png" alt="poster Oslo" class="my">
 
