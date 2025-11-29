@@ -5,7 +5,7 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
+  <link rel="icon" href="/favicon.svg" type="image/x-icon">
 <style>
 body {
     padding-top: 60px;       
@@ -58,7 +58,4 @@ body {
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
   <link href="/css/bootstrap.css" rel="stylesheet">
-  <link href="/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/css/bootstrap-responsive.css" rel="stylesheet">
-
 </head>

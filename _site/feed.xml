@@ -4,11 +4,11 @@
     <title>André Mirtschink</title>
     <description>My research activities at a glance!
 </description>
-    <link>http://andremirt.github.io/</link>
-    <atom:link href="http://andremirt.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Dec 2015 12:59:07 +0100</pubDate>
-    <lastBuildDate>Wed, 02 Dec 2015 12:59:07 +0100</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 29 Nov 2025 12:44:07 +0100</pubDate>
+    <lastBuildDate>Sat, 29 Nov 2025 12:44:07 +0100</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
     
       <item>
         <title>Group seminar work group Seifert</title>
@@ -22,8 +22,8 @@
 
 </description>
         <pubDate>Thu, 19 Nov 2015 00:00:00 +0100</pubDate>
-        <link>http://andremirt.github.io/talks/2015/11/19/TUD.html</link>
-        <guid isPermaLink="true">http://andremirt.github.io/talks/2015/11/19/TUD.html</guid>
+        <link>http://localhost:4000/talks/2015/11/19/TUD.html</link>
+        <guid isPermaLink="true">http://localhost:4000/talks/2015/11/19/TUD.html</guid>
         
         
         <category>talks</category>
@@ -38,8 +38,8 @@
 
 </description>
         <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
-        <link>http://andremirt.github.io/postdoc/grants/2015/11/01/DFGresearchfellowship.html</link>
-        <guid isPermaLink="true">http://andremirt.github.io/postdoc/grants/2015/11/01/DFGresearchfellowship.html</guid>
+        <link>http://localhost:4000/postdoc/grants/2015/11/01/DFGresearchfellowship.html</link>
+        <guid isPermaLink="true">http://localhost:4000/postdoc/grants/2015/11/01/DFGresearchfellowship.html</guid>
         
         
         <category>postdoc</category>
@@ -56,8 +56,8 @@
 
 </description>
         <pubDate>Fri, 25 Sep 2015 00:00:00 +0200</pubDate>
-        <link>http://andremirt.github.io/conference/2015/09/25/EJ.html</link>
-        <guid isPermaLink="true">http://andremirt.github.io/conference/2015/09/25/EJ.html</guid>
+        <link>http://localhost:4000/conference/2015/09/25/EJ.html</link>
+        <guid isPermaLink="true">http://localhost:4000/conference/2015/09/25/EJ.html</guid>
         
         
         <category>conference</category>
@@ -72,8 +72,8 @@
 
 </description>
         <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-        <link>http://andremirt.github.io/postdoc/2015/09/01/PostDoc.html</link>
-        <guid isPermaLink="true">http://andremirt.github.io/postdoc/2015/09/01/PostDoc.html</guid>
+        <link>http://localhost:4000/postdoc/2015/09/01/PostDoc.html</link>
+        <guid isPermaLink="true">http://localhost:4000/postdoc/2015/09/01/PostDoc.html</guid>
         
         
         <category>postdoc</category>
@@ -81,7 +81,7 @@
       </item>
     
       <item>
-        <title>PRL editor&#39;s suggestion</title>
+        <title>PRL editor&apos;s suggestion</title>
         <description>&lt;p&gt;Our recent publication in &lt;a href=&quot;http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033006&quot;&gt;Physical Review Letters is now highlighted as editor’s suggestion.&lt;/a&gt; In this paper we demonstrate the genuine universality of the strictly correlated particles (SCP) formalism by applying the SCP functional to fermionic and bosonic systems with dipolar interaction.&lt;br /&gt;
  [&lt;a href=&quot;/downloads/Maletal-PRL-15.pdf&quot;&gt;article pdf&lt;/a&gt;]&lt;/p&gt;
 
@@ -89,8 +89,8 @@
 
 </description>
         <pubDate>Mon, 29 Jun 2015 00:00:00 +0200</pubDate>
-        <link>http://andremirt.github.io/publications/2015/06/29/PRL_editors_suggestion.html</link>
-        <guid isPermaLink="true">http://andremirt.github.io/publications/2015/06/29/PRL_editors_suggestion.html</guid>
+        <link>http://localhost:4000/publications/2015/06/29/PRL_editors_suggestion.html</link>
+        <guid isPermaLink="true">http://localhost:4000/publications/2015/06/29/PRL_editors_suggestion.html</guid>
         
         
         <category>publications</category>
@@ -109,8 +109,8 @@
 
 </description>
         <pubDate>Thu, 30 Apr 2015 00:00:00 +0200</pubDate>
-        <link>http://andremirt.github.io/conference/2015/04/30/Savin.html</link>
-        <guid isPermaLink="true">http://andremirt.github.io/conference/2015/04/30/Savin.html</guid>
+        <link>http://localhost:4000/conference/2015/04/30/Savin.html</link>
+        <guid isPermaLink="true">http://localhost:4000/conference/2015/04/30/Savin.html</guid>
         
         
         <category>conference</category>
@@ -126,8 +126,8 @@
 &lt;p&gt;[&lt;a href=&quot;/img/2015-01-29_mini-symposium_hr.png&quot;&gt;hig-res&lt;/a&gt;][&lt;a href=&quot;/downloads/2015-01-29_mini-symposium.pdf&quot;&gt;pdf&lt;/a&gt;]&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Jan 2015 10:30:00 +0100</pubDate>
-        <link>http://andremirt.github.io/conference/thesis/2015/01/29/mini-symposium.html</link>
-        <guid isPermaLink="true">http://andremirt.github.io/conference/thesis/2015/01/29/mini-symposium.html</guid>
+        <link>http://localhost:4000/conference/thesis/2015/01/29/mini-symposium.html</link>
+        <guid isPermaLink="true">http://localhost:4000/conference/thesis/2015/01/29/mini-symposium.html</guid>
         
         
         <category>conference</category>
@@ -145,19 +145,19 @@
 &lt;p&gt;[&lt;a href=&quot;/img/2015-01-09_Oslo_poster_hr.png&quot;&gt;high-res&lt;/a&gt;][&lt;a href=&quot;/downloads/2015-01-09_Oslo_poster.pdf&quot;&gt;pdf&lt;/a&gt;][&lt;a href=&quot;http://dx.doi.org/10.6084/m9.figshare.1285135&quot;&gt;doi&lt;/a&gt;]&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Jan 2015 13:39:12 +0100</pubDate>
-        <link>http://andremirt.github.io/conference/poster/sce/dft/tddft/2015/01/09/DFTOslo.html</link>
-        <guid isPermaLink="true">http://andremirt.github.io/conference/poster/sce/dft/tddft/2015/01/09/DFTOslo.html</guid>
+        <link>http://localhost:4000/conference/poster/sce/dft/tddft/2015/01/09/DFTOslo.html</link>
+        <guid isPermaLink="true">http://localhost:4000/conference/poster/sce/dft/tddft/2015/01/09/DFTOslo.html</guid>
         
         
         <category>conference</category>
         
         <category>poster</category>
         
-        <category>sce</category>
+        <category>SCE</category>
         
-        <category>dft</category>
+        <category>DFT</category>
         
-        <category>tddft</category>
+        <category>TDDFT</category>
         
       </item>
     
@@ -169,8 +169,8 @@
 
 </description>
         <pubDate>Sat, 01 Nov 2014 00:00:00 +0100</pubDate>
-        <link>http://andremirt.github.io/publications/thesis/2014/11/01/PhDfinished.html</link>
-        <guid isPermaLink="true">http://andremirt.github.io/publications/thesis/2014/11/01/PhDfinished.html</guid>
+        <link>http://localhost:4000/publications/thesis/2014/11/01/PhDfinished.html</link>
+        <guid isPermaLink="true">http://localhost:4000/publications/thesis/2014/11/01/PhDfinished.html</guid>
         
         
         <category>publications</category>
